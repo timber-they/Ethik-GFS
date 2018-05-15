@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f184263c-c85a-4883-b848-091af3e70198" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" afterPath="$PROJECT_DIR$/reveal.js/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,8 +105,8 @@
     <handled-path value="$PROJECT_DIR$/reveal.js/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1144" />
-    <option name="y" value="-9" />
+    <option name="x" value="1802" />
+    <option name="y" value="-15" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -196,7 +195,7 @@
       <workItem from="1516645431279" duration="2088000" />
       <workItem from="1516807672867" duration="163000" />
       <workItem from="1516808634028" duration="18000" />
-      <workItem from="1516808666191" duration="2445000" />
+      <workItem from="1516808666191" duration="2515000" />
     </task>
     <task id="LOCAL-00001" summary="Aufbau">
       <created>1516535678606</created>
@@ -212,11 +211,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516647501484</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Notes &amp; Fixes -&gt; Kinda finished">
+      <created>1516811135931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1516811135932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7217000" />
+    <option name="totallyTimeSpent" value="7287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="3858" height="2140" extended-state="6" />
@@ -250,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aufbau" />
     <MESSAGE value="Graphics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Graphics" />
+    <MESSAGE value="Notes &amp; Fixes -&gt; Kinda finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notes &amp; Fixes -&gt; Kinda finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
