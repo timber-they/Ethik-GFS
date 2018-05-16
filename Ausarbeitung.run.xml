@@ -53,9 +53,10 @@
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex_.def</file>
-      <file>numeric.bbx</file>
+      <file>reading.bbx</file>
       <file>standard.bbx</file>
-      <file>numeric.cbx</file>
+      <file>reading.cbx</file>
+      <file>authortitle.cbx</file>
       <file>biblatex.cfg</file>
       <file>german.lbx</file>
     </requires>

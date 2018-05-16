@@ -4,7 +4,7 @@
 \usepackage[german]{babel}
 \usepackage[
 backend=biber,
-style=numeric
+style=reading
 ]{biblatex}
 
 \addbibresource{resource.bib}
@@ -17,11 +17,19 @@ style=numeric
 \newpage
 
 \section{Einleitung}
-Das Thema der Überwachung spielt schon seit über einem Jahrhundert eine wichtige Rolle in unserer Gesellschaft. Zum Beispiel wurde im ersten Weltkrieg viel Kritik durch Überwachung ausgelöst \cite{Pressefreiheit}.
-Hier wurde die Überwachungen durch verschiedene Zensuren, wie z.B. der Briefzensur \cite{Zensur} umgesetzt. Doch nicht nur vor über 100 Jahren wurde Überwachung kritisiert: Auch heute beschweren sich viele Menschen darüber, dass nicht genug Acht auf Datenschutz gelegt werde, dass Superkonzerne wie Google alle Daten bekämen oder dass uns eine Welt bevorstehe, in der es nicht nur keine Privatsphäre, sondern auch keine Freiheiten mehr gebe. Und dennoch, wenn man vergleicht, wie die Überwachung vor Hundert Jahren aussah und wie sie heute aussieht, kommt man nicht umhin, festzustellen, dass wir immer mehr überwacht werden. Vielleicht ist die Überwachung, wenn nicht gar die totale Überwachung, in Wirklichkeit gar nichts Schlechtes, sondern sogar etwas Notwendiges?
+Das Thema der Überwachung spielt schon seit über einem Jahrhundert eine wichtige Rolle in unserer Gesellschaft. Zum Beispiel wurde im ersten Weltkrieg viel Kritik durch Überwachung ausgelöst \autocite{Pressefreiheit}.
+Hier wurde die Überwachungen durch verschiedene Zensuren, wie z.B. der Briefzensur \autocite{Zensur} umgesetzt. Doch nicht nur vor über 100 Jahren wurde Überwachung kritisiert: Auch heute beschweren sich viele Menschen darüber, dass nicht genug Acht auf Datenschutz gelegt werde, dass Superkonzerne wie Google alle Daten bekämen oder dass uns eine Welt bevorstehe, in der es nicht nur keine Privatsphäre, sondern auch keine Freiheiten mehr gebe. Und dennoch, wenn man vergleicht, wie die Überwachung vor Hundert Jahren aussah und wie sie heute aussieht, kommt man nicht umhin, festzustellen, dass wir immer mehr überwacht werden. Vielleicht ist die Überwachung, wenn nicht gar die totale Überwachung, in Wirklichkeit gar nichts Schlechtes, sondern sogar etwas Notwendiges?
 
 \section{Arten von Überwachung}
+Das Thema der Überwachung könnte man in zwei Arten einteilen: Die Totale und die Partielle Überwachung. Ich möchte anmerken, dass das keineswegs eine offizielle Unterteilung ist, ich werde sie aber fortan verwenden.
 
+\subsection{Partielle Überwachung}
+Die Partielle Überwachung ist die Art der Überwachung, die wir derzeit und das vergangene Jahr über erlebt haben. Wie der Name schon sagt (Partiell = nicht vollständig ausgeprägt \autocite{Partiell}), findet eine Überwachung nur teilweise statt. Z.B. werden wir heutzutage im Internet überwacht (sofern man sich nicht anderweitig schützt - s. Kapitel \ref{sec:Schutz vor Ueberwachung})
+
+
+
+\section{Schutz vor Überwachung}
+\label{sec:Schutz vor Ueberwachung}
 \newpage
 \printbibliography
 \end{document}

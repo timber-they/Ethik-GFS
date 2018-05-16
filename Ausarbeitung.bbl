@@ -21,7 +21,7 @@
   \sortlist[entry]{nty/global}
     \entry{Pressefreiheit}{online}{}
       \name{author}{1}{}{%
-        {{hash=99aa4c0d311b327ad940b436eab61582}{%
+        {{uniquename=0,hash=99aa4c0d311b327ad940b436eab61582}{%
            family={Schnittker},
            family_i={S\bibinitperiod},
            given={Holger},
@@ -39,9 +39,27 @@
       \verb http://pressefreiheit-wissen.de/geschichte/erster-weltkrieg.html
       \endverb
     \endentry
+    \entry{Partiell}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=de71db8cc70a151300a7f597ac5943e0}{%
+           family={Wictionary},
+           family_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{de71db8cc70a151300a7f597ac5943e0}
+      \strng{fullhash}{de71db8cc70a151300a7f597ac5943e0}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(zugegriffen: 16.05.2018)}
+      \field{title}{partiell - Wictionary}
+      \verb{url}
+      \verb https://de.wiktionary.org/wiki/partiell
+      \endverb
+    \endentry
     \entry{Zensur}{online}{}
       \name{author}{1}{}{%
-        {{hash=9c677286866aad38f8e9b660f5411814}{%
+        {{uniquename=0,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
            family_i={W\bibinitperiod}}}%
       }

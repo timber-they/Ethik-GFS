@@ -1,15 +1,15 @@
 [1] Config.pm:340> INFO - This is Biber 2.4
-[2] Config.pm:343> INFO - Logfile is 'Ausarbeitung.blg'
-[47] biber:287> INFO - === Tue May 15, 2018, 23:30:14
-[173] Biber.pm:348> INFO - Reading 'Ausarbeitung.bcf'
-[317] Biber.pm:742> INFO - Found 2 citekeys in bib section 0
-[331] Biber.pm:3151> INFO - Processing section 0
-[370] Biber.pm:3308> INFO - Looking for bibtex format file 'resource.bib' for section 0
-[376] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[380] bibtex.pm:974> INFO - Found BibTeX data source 'resource.bib'
-[449] UCollate.pm:65> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[450] UCollate.pm:65> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[450] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'de-DE'
-[450] Biber.pm:3032> INFO - No sort tailoring available for locale 'de-DE'
-[453] bbl.pm:519> INFO - Writing 'Ausarbeitung.bbl' with encoding 'UTF-8'
-[460] bbl.pm:615> INFO - Output to Ausarbeitung.bbl
+[1] Config.pm:343> INFO - Logfile is 'Ausarbeitung.blg'
+[46] biber:287> INFO - === Wed May 16, 2018, 16:22:47
+[174] Biber.pm:348> INFO - Reading 'Ausarbeitung.bcf'
+[320] Biber.pm:742> INFO - Found 3 citekeys in bib section 0
+[341] Biber.pm:3151> INFO - Processing section 0
+[430] Biber.pm:3308> INFO - Looking for bibtex format file 'resource.bib' for section 0
+[441] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[445] bibtex.pm:974> INFO - Found BibTeX data source 'resource.bib'
+[547] UCollate.pm:65> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[547] UCollate.pm:65> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[547] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'de-DE'
+[547] Biber.pm:3032> INFO - No sort tailoring available for locale 'de-DE'
+[552] bbl.pm:519> INFO - Writing 'Ausarbeitung.bbl' with encoding 'UTF-8'
+[561] bbl.pm:615> INFO - Output to Ausarbeitung.bbl
