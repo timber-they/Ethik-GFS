@@ -1,0 +1,5 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[1] Config.pm:343> INFO - Logfile is 'Ausarbeitung.blg'
+[44] biber:287> INFO - === Sun May 20, 2018, 11:02:30
+[173] Utils.pm:163> ERROR - Ausarbeitung.bcf is malformed, last biblatex run probably failed. Deleted 
+[174] Biber.pm:113> INFO - ERRORS: 1
