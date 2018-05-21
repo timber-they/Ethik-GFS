@@ -55,6 +55,23 @@
       \verb http://www.spiegel.de/lebenundlernen/schule/ueberwachung-auf-dem-klo-schule-in-grossbritannien-sorgt-fuer-empoerung-a-1176311.html
       \endverb
     \endentry
+    \entry{1984}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2ef7da5d483d3c197804e8f1eb7b36eb}{%
+           family={Orwell},
+           family_i={O\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ef7da5d483d3c197804e8f1eb7b36eb}
+      \strng{fullhash}{2ef7da5d483d3c197804e8f1eb7b36eb}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nineteen Eighty-Four}
+      \field{year}{1949}
+    \endentry
     \entry{England}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=146cf15354ed6d255d8c063a59e48e70}{%
