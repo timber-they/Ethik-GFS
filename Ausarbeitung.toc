@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {german}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Arten von \IeC {\"U}berwachung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Partielle \IeC {\"U}berwachung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Totale \IeC {\"U}berwachung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Praktische Anwendung}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Drittes Reich\autocite {DrittesReich}}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}England}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Internet\autocite {Internet}}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Werke}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}1984\autocite {1984}}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}The Circle\autocite {TheCircle}}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Pers\IeC {\"o}nliche Abw\IeC {\"a}gung}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Schutz vor \IeC {\"U}berwachung}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Fazit}{7}

@@ -2054,14 +2054,15 @@
     <bcf:datasource type="file" datatype="bibtex">resource.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Pressefreiheit</bcf:citekey>
-    <bcf:citekey order="2">Zensur</bcf:citekey>
-    <bcf:citekey order="3">Partiell</bcf:citekey>
-    <bcf:citekey order="4">DrittesReich</bcf:citekey>
-    <bcf:citekey order="5">England</bcf:citekey>
-    <bcf:citekey order="6">Toilette</bcf:citekey>
-    <bcf:citekey order="7">Internet</bcf:citekey>
-    <bcf:citekey order="8">1984</bcf:citekey>
+    <bcf:citekey order="5">Pressefreiheit</bcf:citekey>
+    <bcf:citekey order="6">Zensur</bcf:citekey>
+    <bcf:citekey order="7">Partiell</bcf:citekey>
+    <bcf:citekey order="8">DrittesReich</bcf:citekey>
+    <bcf:citekey order="9">England</bcf:citekey>
+    <bcf:citekey order="10">Toilette</bcf:citekey>
+    <bcf:citekey order="11">Internet</bcf:citekey>
+    <bcf:citekey order="12">1984</bcf:citekey>
+    <bcf:citekey order="13">TheCircle</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>

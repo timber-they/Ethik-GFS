@@ -37,6 +37,23 @@
       \verb https://www.zeit.de/news/2017-06/22/internet-trojaner-gesetz-ueberwachung-bei-whatsapp-und-co-22185603
       \endverb
     \endentry
+    \entry{TheCircle}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f1e381b731b86b964448403f4821f9c2}{%
+           family={Eggers},
+           family_i={E\bibinitperiod},
+           given={Dave},
+           given_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e381b731b86b964448403f4821f9c2}
+      \strng{fullhash}{f1e381b731b86b964448403f4821f9c2}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Circle}
+      \field{year}{2013}
+    \endentry
     \entry{Toilette}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=75e0088227d62d4fed87b7d44a2ae7a5}{%

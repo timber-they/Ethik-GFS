@@ -52,3 +52,9 @@
 	title = "Nineteen Eighty-Four",
 	year = "1949"
 }
+
+@book{TheCircle
+	author = "Dave Eggers",
+	title = "The Circle",
+	year = "2013"
+}
